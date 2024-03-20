@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Karthik, MCA [cybersecurity] student UI/UX designer,Front end developer, a freelance Video Editor👨‍💻 working remotely since 2019 🚀</div>  
+### <div align="center">I'm Karthik, Cybersecurity Enthusiast & Secuity Operation Analyst,Front end developer, a freelance Video Editor👨‍💻 working remotely since 2019 🚀</div>  
   
   
 - 🌱 Learning Ethical Hacking , Front End development  
